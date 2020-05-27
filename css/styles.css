@@ -14,5 +14,14 @@ h1.flashy{
 }
 
 h3.best{
-  font-style: 
+  font-style: bold;
+  font-size: 50px;
+  color: purple
+}
+
+ul.best{
+  font-style: bold;font-style: bold;
+  font-size: 50px;
+  color: purple
+  color: purple
 }
