@@ -1,6 +1,6 @@
 p.flashy{
   font-style: italic;
-  color: red;
+  color: blue;
 }
 
 ul.flashy{
@@ -15,7 +15,7 @@ h1.flashy{
 
 h3.best{
   font-style: bold;
-  font-size: 50px;
+  font-size: 75px;
   color: purple
 }
 
@@ -23,5 +23,8 @@ ul.best{
   font-style: bold;font-style: bold;
   font-size: 50px;
   color: purple
-  color: purple
+}
+
+img {
+  float: center
 }
